@@ -111,6 +111,9 @@ Python 3.10 o superior, scikit-learn 1.3 o superior, NumPy, Pandas, Matplotlib, 
 ---
 
 Ing. Edgar O. Herrera Logrono, M.Sc. en Inteligencia Artificial, VIU Espana
+
 Analista Senior de Seguridad de la Informacion, IESS Ecuador
+
 Candidato CRISC, ISACA
+
 Candidato doctoral, Programa de Doctorado en Tecnologias Informaticas, Universidad de Malaga
