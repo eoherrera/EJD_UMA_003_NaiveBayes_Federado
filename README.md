@@ -107,7 +107,6 @@ Python 3.10 o superior, scikit-learn 1.3 o superior, NumPy, Pandas, Matplotlib, 
 | EJD-UMA-001 v8.0 | [RF_Federado_Ejercicio_Doctoral_UMA_v8](https://github.com/eoherrera/RF_Federado_Ejercicio_Doctoral_UMA_v8) | Fed-TRUST: Coeficiente de Veracidad V_i y agregacion ponderada |
 | EJD-UMA-002 | [TED_MDS_Ejercicio_Doctoral_UMA](https://github.com/eoherrera/TED_MDS_Ejercicio_Doctoral_UMA) | Tree Edit Distance y proyeccion MDS |
 | EJD-UMA-003 | Este repositorio | Naive Bayes Federado con mezcla de distribuciones |
-| EJD-UMA-003 v7.1 | [EJD_UMA_003_Variables_Contextuales_CRISC](https://github.com/eoherrera/EJD_UMA_003_Variables_Contextuales_CRISC) | Variables contextuales CRISC en aprendizaje federado |
 
 ---
 
